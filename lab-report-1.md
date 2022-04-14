@@ -1,4 +1,4 @@
-#Lab Report 1
+# Lab Report 1
 
 ## Step 1
 Install [VSCODE](https://code.visualstudio.com/download)
