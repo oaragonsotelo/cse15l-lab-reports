@@ -1,6 +1,6 @@
-# Lab Report 1
+#Lab Report 1
 
-#### Step 1
+## Step 1
 Install [VSCODE](https://code.visualstudio.com/download)
 
 ![1. ](imgs/1.png) 
@@ -8,28 +8,28 @@ Install [VSCODE](https://code.visualstudio.com/download)
 What I did here was open the link, click download (I used mac) and installed the program once it finished. From there you are almost ready!
 
 
-#### Step 2
-Connect remotely using your regular 'student account'@ieng6.ucsd.edu and the password we asked you to reset in the pre-lab
+## Step 2
+Connect remotely using `ssh <username>@ieng6.ucsd.edu` and the password we asked you to reset in the pre-lab
 
 ![2. ](imgs/2.png)
 
 -First I opened VSCode and installed all extentions as needed (already setup during pre-lab). Then for mac, on the top left of my entire screen, I see a "Terminal" button. I clicked terminal and typed ssh followed by my username and password.
 
 
-#### Step 3
+## Step 3
 Try running some basic commands like `cd`, `ls`, `pwd`
 -After logging into ieng6 secure server, you are free to use many commands. I can use `ls` to view files in current directory and `cd` to navigate into them. `pwd` is used to view the current file path. 
 ![3. ](/imgs/3.png)
 
 
-#### Step 4
+## Step 4
 For this next step, I used the `logout` command to move to my local client, as well as the `ls` and `cd` commands to be sure I am in the directory of the file I am going to copy to our ieng6 server using the `scp` command.
 ![4. ](/imgs/4.png)
 -Keep in mind, this `scp` command was done in the local client (your computer **NOT** ieng6 server). The general syntax is as follows: `scp file_name host_server@addres:server_file_destination`
 file destination can replaced by  `~/` shortcut and this will place your file into your main directory (**it may ask you for your password, use same password as login**). From there, your output should look similar to above and you can confirm your file has the expected contents with the `cat` command.
 
 
-#### Step 5
+## Step 5
 This next step will help us skip having to identify ourselves, allowing us to log into ieng6 without having to constantly insert our passwords. The following steps must be done in your client:
    -`ssh-keygen`
    -`/Users/<user-name>/.ssh/id_rsa`(save to your local client)
