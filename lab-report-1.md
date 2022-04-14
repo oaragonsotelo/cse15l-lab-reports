@@ -4,7 +4,7 @@
 Install [VSCODE](https://code.visualstudio.com/download)
 
 ![1. ](imgs/1.png) 
-<p1>What I did here was open the link, click download (I used mac) and installed the program once it finished. From there you are almost ready!<p1>
+What I did here was open the link, click download (I used mac) and installed the program once it finished. From there you are almost ready!
 
 
 <br>
@@ -14,9 +14,9 @@ Connect remotely using your regular 'student account'@ieng6.ucsd.edu and the pas
 
 ![2. ](imgs/2.png)
 
-<p1>
+
 -First I opened VSCode and installed all extentions as needed (already setup during pre-lab). Then for mac, on the top left of my entire screen, I see a "Terminal" button. I clicked terminal and typed ssh followed by my username and password.
-<p1>
+
 
 
 <br>
@@ -52,11 +52,11 @@ This next step will help us skip having to identify ourselves, allowing us to lo
 
    <br>
    
-<p>
+
 
    If you did all the steps correctly, your output should be similar to below:
 
-<p>
+
 
 **Before: ssh command requires password**
 
