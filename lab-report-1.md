@@ -72,5 +72,5 @@ Try it yourself:
 * upload a java file via `ssh` command
 * compile and run java files via `javac` `java` commands
 
-![6. ](imgs/6.png)
+![6. ](/imgs/6.png)
 
