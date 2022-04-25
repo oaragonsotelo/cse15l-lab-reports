@@ -32,8 +32,4 @@ Original Code Change:
 
 ![img 5](/imgs_2/6.png)
 
-* From my attempt to run this testing.md file, I have found that it does work now. Once the tester file was tweaked to not include an additional line after the last link. The symptom was the lack of output (infinite loop) in VS code, which may imply a bug in the getLinks method index iterator being unable to increment up to the last character in the mardown file, resulting in the infinte loop in the output. 
-
-
-
-
+* From my attempt to run this -testing.md file, I have found that it does work now. Once the tester file was tweaked to not include an additional line after the last link. The symptom was the lack of output (infinite loop) in VS code, which caused a bug in the getLinks method index iterator being unable to increment up to the last character in the markdown file, resulting in the infinte loop in the output.
