@@ -6,7 +6,7 @@ Original Code Change:
 ![img](/imgs_2/1.png)
 
 Symptoms of the failure-inducing output:
-* By definition, what I can only see as of now what part of Nick's code is failing is the The first link being stored/printed as `...content=google_ad(B,` instead of `content=google_ad(B)&utm_campaign=product`.
+* By definition, what I can only see as of now what part of Nick's code is failing is the The first link being stored/printed as `...content=google_ad(B,` instead of `...content=google_ad(B)&utm_campaign=product`.
 
 ![img2](imgs_2/2.png)
 
