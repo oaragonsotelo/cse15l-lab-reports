@@ -15,3 +15,8 @@ Now, if we wanted to create a file on our local machine with `touch`: ![c5](img_
 Once we have used the `ssh` command to log into my linux machine, I was able to move into the `.ssh` directory to create a new `id_rsa_github.pub` public key using `ssh-keygen`: ![c7](img_3/c7.png)
 
 ...and here is my new `id_rsa_github.pub` key added to my github account!: ![c8](/lab-report-3-week-6/img_3/c8.png)
+
+... and this helps me accomplish cool new tasks such as `git commit` commands!: ![C9](img_3/C9.png) [LINK TO COMMIT](https://github.com/oaragonsotelo/markdown-parser/commit/b96dc85638b6eeac647435d2154e04f477649534)
+![c10](img_3/c10.png)
+
+### Step 3: 
