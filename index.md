@@ -5,4 +5,4 @@
 
 > [Link to Lab Report 3](https://oaragonsotelo.github.io/cse15l-lab-reports/lab-report-3-week-6/lab-report-3.html)
 
-> [Link to lab report 4 (pre-setup)](https://oaragonsotelo.github.io/cse15l-lab-reports/lab-report-4.html)
+> [Link to lab report 4](https://oaragonsotelo.github.io/cse15l-lab-reports/lab-report-4.html)
