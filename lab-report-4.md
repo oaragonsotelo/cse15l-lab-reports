@@ -59,4 +59,4 @@ This implementation also FAILED... with this output:
 
 3. Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
-- This case, I feel like, would require many lines of code. Testing for things across different lines in the markdown file would require a lot of checking. This test case is bizzare because you would have to had checked 3 different lines in the `.md` file in order to figure out the right output. 
+- This case, I feel like, would require many lines of code. Testing for things across different lines in the markdown file would require a lot of conditional statements. This test case is bizzare because you would have to had checked 3 different lines in the `.md` file in order to figure out the right output. 
