@@ -7,10 +7,12 @@ links: [my markdown-parser repo](https://github.com/oaragonsotelo/markdown-parse
 ###### My Implementation:
 ![a2](imgs_4/a2.png)
 My implementation PASSED!
+![a_one](imgs_4/A_one.png)
 
 ###### Reviewed Implementation:
 ![a3](imgs_4/a3.png)
 This implementation also PASSED!
+![A](imgs_4/A_two.png)
 
 
 
