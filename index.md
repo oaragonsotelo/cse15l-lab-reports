@@ -7,4 +7,4 @@
 
 > [Link to lab report 4](https://oaragonsotelo.github.io/cse15l-lab-reports/lab-report-4.html)
 
-> [Link to lab report 5]()
+> [Link to lab report 5](https://oaragonsotelo.github.io/cse15l-lab-reports/lab-report-5.html)
